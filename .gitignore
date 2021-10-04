@@ -1,0 +1,14 @@
+# Project exclude paths
+/Week 1/BasicJavaPrograms/bin/
+/Week 2/UsingObjects/bin/
+/Week 3/MyFirstClasses/bin/
+/Week 4/MoreCustomClasses/bin/
+/Week 5/ArrayLists/bin/
+/Week 6/Aggregation/bin/
+/Week 6/Composition/bin/
+/Week 6/PortfolioRegister/bin/
+/Week 6/StartingPlayer/bin/
+/Week 7/Interfaces/bin/
+/Week 7/PortfolioPlayer/bin/
+/Week 8/AbstractClasses/bin/
+/Week 8/Inheritance/bin/

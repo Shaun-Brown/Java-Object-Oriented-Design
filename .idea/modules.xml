@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week 8/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/Week 8/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6/Aggregation/Aggregation.iml" filepath="$PROJECT_DIR$/Week 6/Aggregation/Aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 5/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/Week 5/ArrayLists/ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/BasicJavaPrograms/BasicJavaPrograms.iml" filepath="$PROJECT_DIR$/Week 1/BasicJavaPrograms/BasicJavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6/Composition/Composition.iml" filepath="$PROJECT_DIR$/Week 6/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 8/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Week 8/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 7/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Week 7/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4/MoreCustomClasses/MoreCustomClasses.iml" filepath="$PROJECT_DIR$/Week 4/MoreCustomClasses/MoreCustomClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3/MyFirstClasses/MyFirstClasses.iml" filepath="$PROJECT_DIR$/Week 3/MyFirstClasses/MyFirstClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 7/PortfolioPlayer/PortfolioPlayer.iml" filepath="$PROJECT_DIR$/Week 7/PortfolioPlayer/PortfolioPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6/PortfolioRegister/PortfolioRegister.iml" filepath="$PROJECT_DIR$/Week 6/PortfolioRegister/PortfolioRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 6/StartingPlayer/StartingPlayer.iml" filepath="$PROJECT_DIR$/Week 6/StartingPlayer/StartingPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2/UsingObjects/UsingObjects.iml" filepath="$PROJECT_DIR$/Week 2/UsingObjects/UsingObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4/out/production/Week 4/screenRobots/screenRobots.iml" filepath="$PROJECT_DIR$/Week 4/out/production/Week 4/screenRobots/screenRobots.iml" />
+    </modules>
+  </component>
+</project>
